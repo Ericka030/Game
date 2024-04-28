@@ -16,7 +16,7 @@ Usage
 3.	Click on another tube to pour the water into that tube.
 4.	Continue pouring to match the initial pattern in each tube and complete the level.
 Screenshot
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot1 png](https://github.com/Ericka030/Game/assets/104039443/d2edf3f9-5355-4e1c-b736-48ca11447d03)
 License
 This project is licensed under the MIT License.
 Credits
